@@ -22,3 +22,6 @@ apt install sshpass -y
 gem install lolcat
 python3 -m pip install --upgrade pip
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+git clone https://github.com/karma9874/AndroRAT.git
+cd AndroRAT
+pip install -r requirements.txt
