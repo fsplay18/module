@@ -8,7 +8,7 @@ apt install x11-repo -y
 apt install termux-api -y
 apt install git -y
 apt install wget -y
-aot install curl -y
+apt install curl -y
 apt install python -y
 apt install php -y
 apt install ruby -y
